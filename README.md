@@ -1,2 +1,2 @@
-# My-proekt
+# My proekt
 My proekt
